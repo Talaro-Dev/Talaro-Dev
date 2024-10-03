@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm an undergraduate student in Computer Science on Bioinformatics. I have a <br>passion for building machine learning and <br>deep learning models, <br>automating processes,<br> developing smart systems,<br> and exploring CUDA and <br>parallel programming. <br>I also enjoy creating practical <br>applications that bring my ideas to life.
+I'm an undergraduate student in Computer Science on Bioinformatics. I have a <br>passion for building machine learning and deep learning models, automating processes,<br> developing smart systems,<br> and exploring CUDA and <br>parallel programming. <br>I also enjoy creating practical <br>applications that bring my ideas to life.
 
 
 ## 🌐 Socials:
